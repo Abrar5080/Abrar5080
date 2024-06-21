@@ -1,12 +1,10 @@
-<img align="center" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21tNWgwZDN0YXUzNnFtMmdpdmV4d2hsNjI5cWdhMzhmZWF4ZzNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Abrar Nirban</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar5080&label=Profile%20views&color=0e75b6&style=flat" alt="abrar5080" /> </p>
+<img align="center" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21tNWgwZDN0YXUzNnFtMmdpdmV4d2hsNjI5cWdhMzhmZWF4ZzNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar5080" alt="abrar5080" /></a> </p>
 
 - 🔭 I’m currently working on **Social Media Site**
 
